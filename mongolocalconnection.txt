@@ -1,0 +1,4 @@
+mongodb://localhost:27017
+DB-snc
+to install mono connector in the python use below command
+python -m pip install pymongo

@@ -1,0 +1,4 @@
+https://www.syncfusion.com/succinctly-free-ebooks/hadoop-for-windows-succinctly/installing-hadoop-for-windows
+
+
+https://www.geeksforgeeks.org/how-to-install-single-node-cluster-hadoop-on-windows/
